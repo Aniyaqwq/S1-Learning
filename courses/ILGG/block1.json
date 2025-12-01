@@ -1,1 +1,71 @@
+[
+  {
+    "id": "ILGG-B1-001",
+    "question": "根据《蒙得维的亚公约》（1933），下列哪项属于构成一个国家的必要要素？",
+    "options": [
+      "A. 民主选举制度",
+      "B. 固定人口",
+      "C. 国际组织成员资格",
+      "D. 统一宗教体系"
+    ],
+    "answer": "B",
+    "explanation": "蒙得维的亚公约规定国家的四要素：固定人口、确定领土、政府、进行国际关系的能力。",
+    "knowledge_point": "Statehood（国家构成要素）"
+  },
 
+  {
+    "id": "ILGG-B1-002",
+    "question": "下列哪一项最能体现“国际法律人格”（international legal personality）的意义？",
+    "options": [
+      "A. 能被国际法院直接审判",
+      "B. 能够在国际上享有权利并承担义务",
+      "C. 必须拥有常驻外交机构",
+      "D. 必须拥有强大的军事力量"
+    ],
+    "answer": "B",
+    "explanation": "国际法律人格指能够在国际法律体系中享有权利、承担义务、以及提起或应对国际法律程序的能力。",
+    "knowledge_point": "International Legal Personality（国际法主体）"
+  },
+
+  {
+    "id": "ILGG-B1-003",
+    "question": "以下哪一个主体在传统国际法理论中被视为主要国际法主体？",
+    "options": [
+      "A. 跨国公司（MNCs）",
+      "B. 非政府组织（NGOs）",
+      "C. 主权国家（States）",
+      "D. 个人（Individuals）"
+    ],
+    "answer": "C",
+    "explanation": "在经典国际法理论中，国家（States）是主要的国际法主体，其他主体如NGOs、MNCs、个人仅在现代扩展视角中具有限定法律人格。",
+    "knowledge_point": "Subjects of International Law（国际法主体分类）"
+  },
+
+  {
+    "id": "ILGG-B1-004",
+    "question": "以下哪项属于国际组织（IOs）相较国家的法律能力限制？",
+    "options": [
+      "A. IOs 不能拥有国际法律人格",
+      "B. IOs 无法通过条约取得新成员国",
+      "C. IOs 只能在授权范围内行事（Principle of Attribution）",
+      "D. IOs 必须具有军事力量方可履行职责"
+    ],
+    "answer": "C",
+    "explanation": "国际组织的法律能力受限于成员国通过协议赋予的权限，不得超出授权范围行事。",
+    "knowledge_point": "International Organizations Law（国际组织法 / Attribution 原则）"
+  },
+
+  {
+    "id": "ILGG-B1-005",
+    "question": "关于“主权”（sovereignty），下列哪项表述最准确？",
+    "options": [
+      "A. 主权意味着国家在任何情况下可以不遵守国际法",
+      "B. 主权仅适用于具有强大军事实力的国家",
+      "C. 主权意味着国家对其领土拥有最高权力并在国际社会享有独立地位",
+      "D. 主权由联合国授予"
+    ],
+    "answer": "C",
+    "explanation": "主权包括对内的最高权力（internal sovereignty）与对外的独立性（external sovereignty）。",
+    "knowledge_point": "Sovereignty（主权理论）"
+  }
+]
