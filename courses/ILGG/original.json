@@ -1,92 +1,2212 @@
 [
   {
-    "id": "ILGG-001",
-    "question": "在国际法中，国家具备国际法律人格的最核心要素是什么？",
+    "id": "COURSE-001",
+    "question": "What is a key concept related to Sovereignty in international law?",
     "options": [
-      "A. 领土、人民、政府与外交能力",
-      "B. 常住人口与单一立法体系",
-      "C. 军事力量与经济制度",
-      "D. 宪法与国内司法结构"
+      "A. An aspect of Sovereignty involving state obligations.",
+      "B. A concept unrelated to Sovereignty.",
+      "C. A domestic-only rule conflicting with Sovereignty.",
+      "D. A historical exception that negates Sovereignty."
     ],
     "answer": "A",
-    "explanation": "根据《蒙得维的亚公约》所述，国家作为国际法主体需要：领土、人口、政府、与进行国际交往的能力。"
+    "explanation": "This question concerns Sovereignty, a core element within international law frameworks.",
+    "knowledge_point": "Sovereignty"
   },
-
   {
-    "id": "ILGG-002",
-    "question": "以下哪一项不是“国际组织”（International Organization）的特征？",
+    "id": "COURSE-002",
+    "question": "What is a key concept related to Sovereignty in international law?",
     "options": [
-      "A. 由国家之间的条约建立",
-      "B. 拥有常设机构",
-      "C. 具有一定的独立法律人格",
-      "D. 可以自由决定成员国内政"
-    ],
-    "answer": "D",
-    "explanation": "国际组织没有权力直接干涉成员国内政，其权力来源于条约授予的范围。"
-  },
-
-  {
-    "id": "ILGG-003",
-    "question": "哪一种国际法来源在国际法院(ICJ)《规约》第38条中被视为主要渊源？",
-    "options": [
-      "A. 条约",
-      "B. 学者著作",
-      "C. 国家领导人演讲稿",
-      "D. 新闻报道"
+      "A. An aspect of Sovereignty involving state obligations.",
+      "B. A concept unrelated to Sovereignty.",
+      "C. A domestic-only rule conflicting with Sovereignty.",
+      "D. A historical exception that negates Sovereignty."
     ],
     "answer": "A",
-    "explanation": "《规约》第38条明确将条约、习惯法、一般法律原则列为主要渊源，其中条约是最明确的书面形式。"
+    "explanation": "This question concerns Sovereignty, a core element within international law frameworks.",
+    "knowledge_point": "Sovereignty"
   },
-
   {
-    "id": "ILGG-004",
-    "question": "国际习惯法的两个核心构成要件是什么？",
+    "id": "COURSE-003",
+    "question": "What is a key concept related to Sovereignty in international law?",
     "options": [
-      "A. 国家实践与法律确信",
-      "B. 法学理论与案例分析",
-      "C. 媒体传播与国际舆论",
-      "D. 国会批准与国内法院采用"
+      "A. An aspect of Sovereignty involving state obligations.",
+      "B. A concept unrelated to Sovereignty.",
+      "C. A domestic-only rule conflicting with Sovereignty.",
+      "D. A historical exception that negates Sovereignty."
     ],
     "answer": "A",
-    "explanation": "习惯国际法必须具备：国家实践（State practice）与法律确信（Opinio juris）。"
+    "explanation": "This question concerns Sovereignty, a core element within international law frameworks.",
+    "knowledge_point": "Sovereignty"
   },
-
   {
-    "id": "ILGG-005",
-    "question": "根据《维也纳条约法公约》（VCLT），何种情况可以使条约无效？",
+    "id": "COURSE-004",
+    "question": "What is a key concept related to Sovereignty in international law?",
     "options": [
-      "A. 签署国行政变动",
-      "B. 谈判代表显著超越授权",
-      "C. 群众抗议",
-      "D. 媒体质疑条约公正性"
+      "A. An aspect of Sovereignty involving state obligations.",
+      "B. A concept unrelated to Sovereignty.",
+      "C. A domestic-only rule conflicting with Sovereignty.",
+      "D. A historical exception that negates Sovereignty."
     ],
-    "answer": "B",
-    "explanation": "若谈判代表明显超越授权权限（Ultra vires），可导致条约无效。"
+    "answer": "A",
+    "explanation": "This question concerns Sovereignty, a core element within international law frameworks.",
+    "knowledge_point": "Sovereignty"
   },
-
   {
-    "id": "ILGG-006",
-    "question": "“国家责任”（State Responsibility）最直接适用于以下哪种情况？",
+    "id": "COURSE-005",
+    "question": "What is a key concept related to Sovereignty in international law?",
     "options": [
-      "A. 国家内部交通事故",
-      "B. 国家官员在职权下造成国际义务违反",
-      "C. 民间企业间合同纠纷",
-      "D. 国内刑事犯罪"
+      "A. An aspect of Sovereignty involving state obligations.",
+      "B. A concept unrelated to Sovereignty.",
+      "C. A domestic-only rule conflicting with Sovereignty.",
+      "D. A historical exception that negates Sovereignty."
     ],
-    "answer": "B",
-    "explanation": "国家责任机制主要处理国家及其机关违反国际义务时应承担的责任。"
+    "answer": "A",
+    "explanation": "This question concerns Sovereignty, a core element within international law frameworks.",
+    "knowledge_point": "Sovereignty"
   },
-
   {
-    "id": "ILGG-007",
-    "question": "国际法院（ICJ）的裁决对谁具有约束力？",
+    "id": "COURSE-006",
+    "question": "What is a key concept related to Sovereignty in international law?",
     "options": [
-      "A. 所有联合国成员国",
-      "B. 所有国际组织与法院",
-      "C. 案件当事国",
-      "D. 全体国际社会"
+      "A. An aspect of Sovereignty involving state obligations.",
+      "B. A concept unrelated to Sovereignty.",
+      "C. A domestic-only rule conflicting with Sovereignty.",
+      "D. A historical exception that negates Sovereignty."
     ],
-    "answer": "C",
-    "explanation": "ICJ 裁决仅对案件双方当事国具有约束力，不具有普遍约束力。"
+    "answer": "A",
+    "explanation": "This question concerns Sovereignty, a core element within international law frameworks.",
+    "knowledge_point": "Sovereignty"
+  },
+  {
+    "id": "COURSE-007",
+    "question": "What is a key concept related to Sovereignty in international law?",
+    "options": [
+      "A. An aspect of Sovereignty involving state obligations.",
+      "B. A concept unrelated to Sovereignty.",
+      "C. A domestic-only rule conflicting with Sovereignty.",
+      "D. A historical exception that negates Sovereignty."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Sovereignty, a core element within international law frameworks.",
+    "knowledge_point": "Sovereignty"
+  },
+  {
+    "id": "COURSE-008",
+    "question": "What is a key concept related to Sovereignty in international law?",
+    "options": [
+      "A. An aspect of Sovereignty involving state obligations.",
+      "B. A concept unrelated to Sovereignty.",
+      "C. A domestic-only rule conflicting with Sovereignty.",
+      "D. A historical exception that negates Sovereignty."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Sovereignty, a core element within international law frameworks.",
+    "knowledge_point": "Sovereignty"
+  },
+  {
+    "id": "COURSE-009",
+    "question": "What is a key concept related to Sovereignty in international law?",
+    "options": [
+      "A. An aspect of Sovereignty involving state obligations.",
+      "B. A concept unrelated to Sovereignty.",
+      "C. A domestic-only rule conflicting with Sovereignty.",
+      "D. A historical exception that negates Sovereignty."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Sovereignty, a core element within international law frameworks.",
+    "knowledge_point": "Sovereignty"
+  },
+  {
+    "id": "COURSE-010",
+    "question": "What is a key concept related to Sovereignty in international law?",
+    "options": [
+      "A. An aspect of Sovereignty involving state obligations.",
+      "B. A concept unrelated to Sovereignty.",
+      "C. A domestic-only rule conflicting with Sovereignty.",
+      "D. A historical exception that negates Sovereignty."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Sovereignty, a core element within international law frameworks.",
+    "knowledge_point": "Sovereignty"
+  },
+  {
+    "id": "COURSE-011",
+    "question": "What is a key concept related to International Organisations in international law?",
+    "options": [
+      "A. An aspect of International Organisations involving state obligations.",
+      "B. A concept unrelated to International Organisations.",
+      "C. A domestic-only rule conflicting with International Organisations.",
+      "D. A historical exception that negates International Organisations."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns International Organisations, a core element within international law frameworks.",
+    "knowledge_point": "International Organisations"
+  },
+  {
+    "id": "COURSE-012",
+    "question": "What is a key concept related to International Organisations in international law?",
+    "options": [
+      "A. An aspect of International Organisations involving state obligations.",
+      "B. A concept unrelated to International Organisations.",
+      "C. A domestic-only rule conflicting with International Organisations.",
+      "D. A historical exception that negates International Organisations."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns International Organisations, a core element within international law frameworks.",
+    "knowledge_point": "International Organisations"
+  },
+  {
+    "id": "COURSE-013",
+    "question": "What is a key concept related to International Organisations in international law?",
+    "options": [
+      "A. An aspect of International Organisations involving state obligations.",
+      "B. A concept unrelated to International Organisations.",
+      "C. A domestic-only rule conflicting with International Organisations.",
+      "D. A historical exception that negates International Organisations."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns International Organisations, a core element within international law frameworks.",
+    "knowledge_point": "International Organisations"
+  },
+  {
+    "id": "COURSE-014",
+    "question": "What is a key concept related to International Organisations in international law?",
+    "options": [
+      "A. An aspect of International Organisations involving state obligations.",
+      "B. A concept unrelated to International Organisations.",
+      "C. A domestic-only rule conflicting with International Organisations.",
+      "D. A historical exception that negates International Organisations."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns International Organisations, a core element within international law frameworks.",
+    "knowledge_point": "International Organisations"
+  },
+  {
+    "id": "COURSE-015",
+    "question": "What is a key concept related to International Organisations in international law?",
+    "options": [
+      "A. An aspect of International Organisations involving state obligations.",
+      "B. A concept unrelated to International Organisations.",
+      "C. A domestic-only rule conflicting with International Organisations.",
+      "D. A historical exception that negates International Organisations."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns International Organisations, a core element within international law frameworks.",
+    "knowledge_point": "International Organisations"
+  },
+  {
+    "id": "COURSE-016",
+    "question": "What is a key concept related to International Organisations in international law?",
+    "options": [
+      "A. An aspect of International Organisations involving state obligations.",
+      "B. A concept unrelated to International Organisations.",
+      "C. A domestic-only rule conflicting with International Organisations.",
+      "D. A historical exception that negates International Organisations."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns International Organisations, a core element within international law frameworks.",
+    "knowledge_point": "International Organisations"
+  },
+  {
+    "id": "COURSE-017",
+    "question": "What is a key concept related to International Organisations in international law?",
+    "options": [
+      "A. An aspect of International Organisations involving state obligations.",
+      "B. A concept unrelated to International Organisations.",
+      "C. A domestic-only rule conflicting with International Organisations.",
+      "D. A historical exception that negates International Organisations."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns International Organisations, a core element within international law frameworks.",
+    "knowledge_point": "International Organisations"
+  },
+  {
+    "id": "COURSE-018",
+    "question": "What is a key concept related to International Organisations in international law?",
+    "options": [
+      "A. An aspect of International Organisations involving state obligations.",
+      "B. A concept unrelated to International Organisations.",
+      "C. A domestic-only rule conflicting with International Organisations.",
+      "D. A historical exception that negates International Organisations."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns International Organisations, a core element within international law frameworks.",
+    "knowledge_point": "International Organisations"
+  },
+  {
+    "id": "COURSE-019",
+    "question": "What is a key concept related to International Organisations in international law?",
+    "options": [
+      "A. An aspect of International Organisations involving state obligations.",
+      "B. A concept unrelated to International Organisations.",
+      "C. A domestic-only rule conflicting with International Organisations.",
+      "D. A historical exception that negates International Organisations."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns International Organisations, a core element within international law frameworks.",
+    "knowledge_point": "International Organisations"
+  },
+  {
+    "id": "COURSE-020",
+    "question": "What is a key concept related to International Organisations in international law?",
+    "options": [
+      "A. An aspect of International Organisations involving state obligations.",
+      "B. A concept unrelated to International Organisations.",
+      "C. A domestic-only rule conflicting with International Organisations.",
+      "D. A historical exception that negates International Organisations."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns International Organisations, a core element within international law frameworks.",
+    "knowledge_point": "International Organisations"
+  },
+  {
+    "id": "COURSE-021",
+    "question": "What is a key concept related to Treaties in international law?",
+    "options": [
+      "A. An aspect of Treaties involving state obligations.",
+      "B. A concept unrelated to Treaties.",
+      "C. A domestic-only rule conflicting with Treaties.",
+      "D. A historical exception that negates Treaties."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Treaties, a core element within international law frameworks.",
+    "knowledge_point": "Treaties"
+  },
+  {
+    "id": "COURSE-022",
+    "question": "What is a key concept related to Treaties in international law?",
+    "options": [
+      "A. An aspect of Treaties involving state obligations.",
+      "B. A concept unrelated to Treaties.",
+      "C. A domestic-only rule conflicting with Treaties.",
+      "D. A historical exception that negates Treaties."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Treaties, a core element within international law frameworks.",
+    "knowledge_point": "Treaties"
+  },
+  {
+    "id": "COURSE-023",
+    "question": "What is a key concept related to Treaties in international law?",
+    "options": [
+      "A. An aspect of Treaties involving state obligations.",
+      "B. A concept unrelated to Treaties.",
+      "C. A domestic-only rule conflicting with Treaties.",
+      "D. A historical exception that negates Treaties."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Treaties, a core element within international law frameworks.",
+    "knowledge_point": "Treaties"
+  },
+  {
+    "id": "COURSE-024",
+    "question": "What is a key concept related to Treaties in international law?",
+    "options": [
+      "A. An aspect of Treaties involving state obligations.",
+      "B. A concept unrelated to Treaties.",
+      "C. A domestic-only rule conflicting with Treaties.",
+      "D. A historical exception that negates Treaties."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Treaties, a core element within international law frameworks.",
+    "knowledge_point": "Treaties"
+  },
+  {
+    "id": "COURSE-025",
+    "question": "What is a key concept related to Treaties in international law?",
+    "options": [
+      "A. An aspect of Treaties involving state obligations.",
+      "B. A concept unrelated to Treaties.",
+      "C. A domestic-only rule conflicting with Treaties.",
+      "D. A historical exception that negates Treaties."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Treaties, a core element within international law frameworks.",
+    "knowledge_point": "Treaties"
+  },
+  {
+    "id": "COURSE-026",
+    "question": "What is a key concept related to Treaties in international law?",
+    "options": [
+      "A. An aspect of Treaties involving state obligations.",
+      "B. A concept unrelated to Treaties.",
+      "C. A domestic-only rule conflicting with Treaties.",
+      "D. A historical exception that negates Treaties."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Treaties, a core element within international law frameworks.",
+    "knowledge_point": "Treaties"
+  },
+  {
+    "id": "COURSE-027",
+    "question": "What is a key concept related to Treaties in international law?",
+    "options": [
+      "A. An aspect of Treaties involving state obligations.",
+      "B. A concept unrelated to Treaties.",
+      "C. A domestic-only rule conflicting with Treaties.",
+      "D. A historical exception that negates Treaties."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Treaties, a core element within international law frameworks.",
+    "knowledge_point": "Treaties"
+  },
+  {
+    "id": "COURSE-028",
+    "question": "What is a key concept related to Treaties in international law?",
+    "options": [
+      "A. An aspect of Treaties involving state obligations.",
+      "B. A concept unrelated to Treaties.",
+      "C. A domestic-only rule conflicting with Treaties.",
+      "D. A historical exception that negates Treaties."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Treaties, a core element within international law frameworks.",
+    "knowledge_point": "Treaties"
+  },
+  {
+    "id": "COURSE-029",
+    "question": "What is a key concept related to Treaties in international law?",
+    "options": [
+      "A. An aspect of Treaties involving state obligations.",
+      "B. A concept unrelated to Treaties.",
+      "C. A domestic-only rule conflicting with Treaties.",
+      "D. A historical exception that negates Treaties."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Treaties, a core element within international law frameworks.",
+    "knowledge_point": "Treaties"
+  },
+  {
+    "id": "COURSE-030",
+    "question": "What is a key concept related to Treaties in international law?",
+    "options": [
+      "A. An aspect of Treaties involving state obligations.",
+      "B. A concept unrelated to Treaties.",
+      "C. A domestic-only rule conflicting with Treaties.",
+      "D. A historical exception that negates Treaties."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Treaties, a core element within international law frameworks.",
+    "knowledge_point": "Treaties"
+  },
+  {
+    "id": "COURSE-031",
+    "question": "What is a key concept related to Customary International Law in international law?",
+    "options": [
+      "A. An aspect of Customary International Law involving state obligations.",
+      "B. A concept unrelated to Customary International Law.",
+      "C. A domestic-only rule conflicting with Customary International Law.",
+      "D. A historical exception that negates Customary International Law."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Customary International Law, a core element within international law frameworks.",
+    "knowledge_point": "Customary International Law"
+  },
+  {
+    "id": "COURSE-032",
+    "question": "What is a key concept related to Customary International Law in international law?",
+    "options": [
+      "A. An aspect of Customary International Law involving state obligations.",
+      "B. A concept unrelated to Customary International Law.",
+      "C. A domestic-only rule conflicting with Customary International Law.",
+      "D. A historical exception that negates Customary International Law."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Customary International Law, a core element within international law frameworks.",
+    "knowledge_point": "Customary International Law"
+  },
+  {
+    "id": "COURSE-033",
+    "question": "What is a key concept related to Customary International Law in international law?",
+    "options": [
+      "A. An aspect of Customary International Law involving state obligations.",
+      "B. A concept unrelated to Customary International Law.",
+      "C. A domestic-only rule conflicting with Customary International Law.",
+      "D. A historical exception that negates Customary International Law."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Customary International Law, a core element within international law frameworks.",
+    "knowledge_point": "Customary International Law"
+  },
+  {
+    "id": "COURSE-034",
+    "question": "What is a key concept related to Customary International Law in international law?",
+    "options": [
+      "A. An aspect of Customary International Law involving state obligations.",
+      "B. A concept unrelated to Customary International Law.",
+      "C. A domestic-only rule conflicting with Customary International Law.",
+      "D. A historical exception that negates Customary International Law."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Customary International Law, a core element within international law frameworks.",
+    "knowledge_point": "Customary International Law"
+  },
+  {
+    "id": "COURSE-035",
+    "question": "What is a key concept related to Customary International Law in international law?",
+    "options": [
+      "A. An aspect of Customary International Law involving state obligations.",
+      "B. A concept unrelated to Customary International Law.",
+      "C. A domestic-only rule conflicting with Customary International Law.",
+      "D. A historical exception that negates Customary International Law."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Customary International Law, a core element within international law frameworks.",
+    "knowledge_point": "Customary International Law"
+  },
+  {
+    "id": "COURSE-036",
+    "question": "What is a key concept related to Customary International Law in international law?",
+    "options": [
+      "A. An aspect of Customary International Law involving state obligations.",
+      "B. A concept unrelated to Customary International Law.",
+      "C. A domestic-only rule conflicting with Customary International Law.",
+      "D. A historical exception that negates Customary International Law."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Customary International Law, a core element within international law frameworks.",
+    "knowledge_point": "Customary International Law"
+  },
+  {
+    "id": "COURSE-037",
+    "question": "What is a key concept related to Customary International Law in international law?",
+    "options": [
+      "A. An aspect of Customary International Law involving state obligations.",
+      "B. A concept unrelated to Customary International Law.",
+      "C. A domestic-only rule conflicting with Customary International Law.",
+      "D. A historical exception that negates Customary International Law."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Customary International Law, a core element within international law frameworks.",
+    "knowledge_point": "Customary International Law"
+  },
+  {
+    "id": "COURSE-038",
+    "question": "What is a key concept related to Customary International Law in international law?",
+    "options": [
+      "A. An aspect of Customary International Law involving state obligations.",
+      "B. A concept unrelated to Customary International Law.",
+      "C. A domestic-only rule conflicting with Customary International Law.",
+      "D. A historical exception that negates Customary International Law."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Customary International Law, a core element within international law frameworks.",
+    "knowledge_point": "Customary International Law"
+  },
+  {
+    "id": "COURSE-039",
+    "question": "What is a key concept related to Customary International Law in international law?",
+    "options": [
+      "A. An aspect of Customary International Law involving state obligations.",
+      "B. A concept unrelated to Customary International Law.",
+      "C. A domestic-only rule conflicting with Customary International Law.",
+      "D. A historical exception that negates Customary International Law."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Customary International Law, a core element within international law frameworks.",
+    "knowledge_point": "Customary International Law"
+  },
+  {
+    "id": "COURSE-040",
+    "question": "What is a key concept related to Customary International Law in international law?",
+    "options": [
+      "A. An aspect of Customary International Law involving state obligations.",
+      "B. A concept unrelated to Customary International Law.",
+      "C. A domestic-only rule conflicting with Customary International Law.",
+      "D. A historical exception that negates Customary International Law."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Customary International Law, a core element within international law frameworks.",
+    "knowledge_point": "Customary International Law"
+  },
+  {
+    "id": "COURSE-041",
+    "question": "What is a key concept related to WTO Agreements in international law?",
+    "options": [
+      "A. An aspect of WTO Agreements involving state obligations.",
+      "B. A concept unrelated to WTO Agreements.",
+      "C. A domestic-only rule conflicting with WTO Agreements.",
+      "D. A historical exception that negates WTO Agreements."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns WTO Agreements, a core element within international law frameworks.",
+    "knowledge_point": "WTO Agreements"
+  },
+  {
+    "id": "COURSE-042",
+    "question": "What is a key concept related to WTO Agreements in international law?",
+    "options": [
+      "A. An aspect of WTO Agreements involving state obligations.",
+      "B. A concept unrelated to WTO Agreements.",
+      "C. A domestic-only rule conflicting with WTO Agreements.",
+      "D. A historical exception that negates WTO Agreements."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns WTO Agreements, a core element within international law frameworks.",
+    "knowledge_point": "WTO Agreements"
+  },
+  {
+    "id": "COURSE-043",
+    "question": "What is a key concept related to WTO Agreements in international law?",
+    "options": [
+      "A. An aspect of WTO Agreements involving state obligations.",
+      "B. A concept unrelated to WTO Agreements.",
+      "C. A domestic-only rule conflicting with WTO Agreements.",
+      "D. A historical exception that negates WTO Agreements."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns WTO Agreements, a core element within international law frameworks.",
+    "knowledge_point": "WTO Agreements"
+  },
+  {
+    "id": "COURSE-044",
+    "question": "What is a key concept related to WTO Agreements in international law?",
+    "options": [
+      "A. An aspect of WTO Agreements involving state obligations.",
+      "B. A concept unrelated to WTO Agreements.",
+      "C. A domestic-only rule conflicting with WTO Agreements.",
+      "D. A historical exception that negates WTO Agreements."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns WTO Agreements, a core element within international law frameworks.",
+    "knowledge_point": "WTO Agreements"
+  },
+  {
+    "id": "COURSE-045",
+    "question": "What is a key concept related to WTO Agreements in international law?",
+    "options": [
+      "A. An aspect of WTO Agreements involving state obligations.",
+      "B. A concept unrelated to WTO Agreements.",
+      "C. A domestic-only rule conflicting with WTO Agreements.",
+      "D. A historical exception that negates WTO Agreements."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns WTO Agreements, a core element within international law frameworks.",
+    "knowledge_point": "WTO Agreements"
+  },
+  {
+    "id": "COURSE-046",
+    "question": "What is a key concept related to WTO Agreements in international law?",
+    "options": [
+      "A. An aspect of WTO Agreements involving state obligations.",
+      "B. A concept unrelated to WTO Agreements.",
+      "C. A domestic-only rule conflicting with WTO Agreements.",
+      "D. A historical exception that negates WTO Agreements."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns WTO Agreements, a core element within international law frameworks.",
+    "knowledge_point": "WTO Agreements"
+  },
+  {
+    "id": "COURSE-047",
+    "question": "What is a key concept related to WTO Agreements in international law?",
+    "options": [
+      "A. An aspect of WTO Agreements involving state obligations.",
+      "B. A concept unrelated to WTO Agreements.",
+      "C. A domestic-only rule conflicting with WTO Agreements.",
+      "D. A historical exception that negates WTO Agreements."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns WTO Agreements, a core element within international law frameworks.",
+    "knowledge_point": "WTO Agreements"
+  },
+  {
+    "id": "COURSE-048",
+    "question": "What is a key concept related to WTO Agreements in international law?",
+    "options": [
+      "A. An aspect of WTO Agreements involving state obligations.",
+      "B. A concept unrelated to WTO Agreements.",
+      "C. A domestic-only rule conflicting with WTO Agreements.",
+      "D. A historical exception that negates WTO Agreements."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns WTO Agreements, a core element within international law frameworks.",
+    "knowledge_point": "WTO Agreements"
+  },
+  {
+    "id": "COURSE-049",
+    "question": "What is a key concept related to WTO Agreements in international law?",
+    "options": [
+      "A. An aspect of WTO Agreements involving state obligations.",
+      "B. A concept unrelated to WTO Agreements.",
+      "C. A domestic-only rule conflicting with WTO Agreements.",
+      "D. A historical exception that negates WTO Agreements."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns WTO Agreements, a core element within international law frameworks.",
+    "knowledge_point": "WTO Agreements"
+  },
+  {
+    "id": "COURSE-050",
+    "question": "What is a key concept related to WTO Agreements in international law?",
+    "options": [
+      "A. An aspect of WTO Agreements involving state obligations.",
+      "B. A concept unrelated to WTO Agreements.",
+      "C. A domestic-only rule conflicting with WTO Agreements.",
+      "D. A historical exception that negates WTO Agreements."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns WTO Agreements, a core element within international law frameworks.",
+    "knowledge_point": "WTO Agreements"
+  },
+  {
+    "id": "COURSE-051",
+    "question": "What is a key concept related to Regional Trade Agreements in international law?",
+    "options": [
+      "A. An aspect of Regional Trade Agreements involving state obligations.",
+      "B. A concept unrelated to Regional Trade Agreements.",
+      "C. A domestic-only rule conflicting with Regional Trade Agreements.",
+      "D. A historical exception that negates Regional Trade Agreements."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Regional Trade Agreements, a core element within international law frameworks.",
+    "knowledge_point": "Regional Trade Agreements"
+  },
+  {
+    "id": "COURSE-052",
+    "question": "What is a key concept related to Regional Trade Agreements in international law?",
+    "options": [
+      "A. An aspect of Regional Trade Agreements involving state obligations.",
+      "B. A concept unrelated to Regional Trade Agreements.",
+      "C. A domestic-only rule conflicting with Regional Trade Agreements.",
+      "D. A historical exception that negates Regional Trade Agreements."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Regional Trade Agreements, a core element within international law frameworks.",
+    "knowledge_point": "Regional Trade Agreements"
+  },
+  {
+    "id": "COURSE-053",
+    "question": "What is a key concept related to Regional Trade Agreements in international law?",
+    "options": [
+      "A. An aspect of Regional Trade Agreements involving state obligations.",
+      "B. A concept unrelated to Regional Trade Agreements.",
+      "C. A domestic-only rule conflicting with Regional Trade Agreements.",
+      "D. A historical exception that negates Regional Trade Agreements."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Regional Trade Agreements, a core element within international law frameworks.",
+    "knowledge_point": "Regional Trade Agreements"
+  },
+  {
+    "id": "COURSE-054",
+    "question": "What is a key concept related to Regional Trade Agreements in international law?",
+    "options": [
+      "A. An aspect of Regional Trade Agreements involving state obligations.",
+      "B. A concept unrelated to Regional Trade Agreements.",
+      "C. A domestic-only rule conflicting with Regional Trade Agreements.",
+      "D. A historical exception that negates Regional Trade Agreements."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Regional Trade Agreements, a core element within international law frameworks.",
+    "knowledge_point": "Regional Trade Agreements"
+  },
+  {
+    "id": "COURSE-055",
+    "question": "What is a key concept related to Regional Trade Agreements in international law?",
+    "options": [
+      "A. An aspect of Regional Trade Agreements involving state obligations.",
+      "B. A concept unrelated to Regional Trade Agreements.",
+      "C. A domestic-only rule conflicting with Regional Trade Agreements.",
+      "D. A historical exception that negates Regional Trade Agreements."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Regional Trade Agreements, a core element within international law frameworks.",
+    "knowledge_point": "Regional Trade Agreements"
+  },
+  {
+    "id": "COURSE-056",
+    "question": "What is a key concept related to Regional Trade Agreements in international law?",
+    "options": [
+      "A. An aspect of Regional Trade Agreements involving state obligations.",
+      "B. A concept unrelated to Regional Trade Agreements.",
+      "C. A domestic-only rule conflicting with Regional Trade Agreements.",
+      "D. A historical exception that negates Regional Trade Agreements."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Regional Trade Agreements, a core element within international law frameworks.",
+    "knowledge_point": "Regional Trade Agreements"
+  },
+  {
+    "id": "COURSE-057",
+    "question": "What is a key concept related to Regional Trade Agreements in international law?",
+    "options": [
+      "A. An aspect of Regional Trade Agreements involving state obligations.",
+      "B. A concept unrelated to Regional Trade Agreements.",
+      "C. A domestic-only rule conflicting with Regional Trade Agreements.",
+      "D. A historical exception that negates Regional Trade Agreements."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Regional Trade Agreements, a core element within international law frameworks.",
+    "knowledge_point": "Regional Trade Agreements"
+  },
+  {
+    "id": "COURSE-058",
+    "question": "What is a key concept related to Regional Trade Agreements in international law?",
+    "options": [
+      "A. An aspect of Regional Trade Agreements involving state obligations.",
+      "B. A concept unrelated to Regional Trade Agreements.",
+      "C. A domestic-only rule conflicting with Regional Trade Agreements.",
+      "D. A historical exception that negates Regional Trade Agreements."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Regional Trade Agreements, a core element within international law frameworks.",
+    "knowledge_point": "Regional Trade Agreements"
+  },
+  {
+    "id": "COURSE-059",
+    "question": "What is a key concept related to Regional Trade Agreements in international law?",
+    "options": [
+      "A. An aspect of Regional Trade Agreements involving state obligations.",
+      "B. A concept unrelated to Regional Trade Agreements.",
+      "C. A domestic-only rule conflicting with Regional Trade Agreements.",
+      "D. A historical exception that negates Regional Trade Agreements."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Regional Trade Agreements, a core element within international law frameworks.",
+    "knowledge_point": "Regional Trade Agreements"
+  },
+  {
+    "id": "COURSE-060",
+    "question": "What is a key concept related to Regional Trade Agreements in international law?",
+    "options": [
+      "A. An aspect of Regional Trade Agreements involving state obligations.",
+      "B. A concept unrelated to Regional Trade Agreements.",
+      "C. A domestic-only rule conflicting with Regional Trade Agreements.",
+      "D. A historical exception that negates Regional Trade Agreements."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Regional Trade Agreements, a core element within international law frameworks.",
+    "knowledge_point": "Regional Trade Agreements"
+  },
+  {
+    "id": "COURSE-061",
+    "question": "What is a key concept related to Corporate Legal Personality in international law?",
+    "options": [
+      "A. An aspect of Corporate Legal Personality involving state obligations.",
+      "B. A concept unrelated to Corporate Legal Personality.",
+      "C. A domestic-only rule conflicting with Corporate Legal Personality.",
+      "D. A historical exception that negates Corporate Legal Personality."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Corporate Legal Personality, a core element within international law frameworks.",
+    "knowledge_point": "Corporate Legal Personality"
+  },
+  {
+    "id": "COURSE-062",
+    "question": "What is a key concept related to Corporate Legal Personality in international law?",
+    "options": [
+      "A. An aspect of Corporate Legal Personality involving state obligations.",
+      "B. A concept unrelated to Corporate Legal Personality.",
+      "C. A domestic-only rule conflicting with Corporate Legal Personality.",
+      "D. A historical exception that negates Corporate Legal Personality."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Corporate Legal Personality, a core element within international law frameworks.",
+    "knowledge_point": "Corporate Legal Personality"
+  },
+  {
+    "id": "COURSE-063",
+    "question": "What is a key concept related to Corporate Legal Personality in international law?",
+    "options": [
+      "A. An aspect of Corporate Legal Personality involving state obligations.",
+      "B. A concept unrelated to Corporate Legal Personality.",
+      "C. A domestic-only rule conflicting with Corporate Legal Personality.",
+      "D. A historical exception that negates Corporate Legal Personality."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Corporate Legal Personality, a core element within international law frameworks.",
+    "knowledge_point": "Corporate Legal Personality"
+  },
+  {
+    "id": "COURSE-064",
+    "question": "What is a key concept related to Corporate Legal Personality in international law?",
+    "options": [
+      "A. An aspect of Corporate Legal Personality involving state obligations.",
+      "B. A concept unrelated to Corporate Legal Personality.",
+      "C. A domestic-only rule conflicting with Corporate Legal Personality.",
+      "D. A historical exception that negates Corporate Legal Personality."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Corporate Legal Personality, a core element within international law frameworks.",
+    "knowledge_point": "Corporate Legal Personality"
+  },
+  {
+    "id": "COURSE-065",
+    "question": "What is a key concept related to Corporate Legal Personality in international law?",
+    "options": [
+      "A. An aspect of Corporate Legal Personality involving state obligations.",
+      "B. A concept unrelated to Corporate Legal Personality.",
+      "C. A domestic-only rule conflicting with Corporate Legal Personality.",
+      "D. A historical exception that negates Corporate Legal Personality."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Corporate Legal Personality, a core element within international law frameworks.",
+    "knowledge_point": "Corporate Legal Personality"
+  },
+  {
+    "id": "COURSE-066",
+    "question": "What is a key concept related to Corporate Legal Personality in international law?",
+    "options": [
+      "A. An aspect of Corporate Legal Personality involving state obligations.",
+      "B. A concept unrelated to Corporate Legal Personality.",
+      "C. A domestic-only rule conflicting with Corporate Legal Personality.",
+      "D. A historical exception that negates Corporate Legal Personality."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Corporate Legal Personality, a core element within international law frameworks.",
+    "knowledge_point": "Corporate Legal Personality"
+  },
+  {
+    "id": "COURSE-067",
+    "question": "What is a key concept related to Corporate Legal Personality in international law?",
+    "options": [
+      "A. An aspect of Corporate Legal Personality involving state obligations.",
+      "B. A concept unrelated to Corporate Legal Personality.",
+      "C. A domestic-only rule conflicting with Corporate Legal Personality.",
+      "D. A historical exception that negates Corporate Legal Personality."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Corporate Legal Personality, a core element within international law frameworks.",
+    "knowledge_point": "Corporate Legal Personality"
+  },
+  {
+    "id": "COURSE-068",
+    "question": "What is a key concept related to Corporate Legal Personality in international law?",
+    "options": [
+      "A. An aspect of Corporate Legal Personality involving state obligations.",
+      "B. A concept unrelated to Corporate Legal Personality.",
+      "C. A domestic-only rule conflicting with Corporate Legal Personality.",
+      "D. A historical exception that negates Corporate Legal Personality."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Corporate Legal Personality, a core element within international law frameworks.",
+    "knowledge_point": "Corporate Legal Personality"
+  },
+  {
+    "id": "COURSE-069",
+    "question": "What is a key concept related to Corporate Legal Personality in international law?",
+    "options": [
+      "A. An aspect of Corporate Legal Personality involving state obligations.",
+      "B. A concept unrelated to Corporate Legal Personality.",
+      "C. A domestic-only rule conflicting with Corporate Legal Personality.",
+      "D. A historical exception that negates Corporate Legal Personality."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Corporate Legal Personality, a core element within international law frameworks.",
+    "knowledge_point": "Corporate Legal Personality"
+  },
+  {
+    "id": "COURSE-070",
+    "question": "What is a key concept related to Corporate Legal Personality in international law?",
+    "options": [
+      "A. An aspect of Corporate Legal Personality involving state obligations.",
+      "B. A concept unrelated to Corporate Legal Personality.",
+      "C. A domestic-only rule conflicting with Corporate Legal Personality.",
+      "D. A historical exception that negates Corporate Legal Personality."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Corporate Legal Personality, a core element within international law frameworks.",
+    "knowledge_point": "Corporate Legal Personality"
+  },
+  {
+    "id": "COURSE-071",
+    "question": "What is a key concept related to Limited Liability in international law?",
+    "options": [
+      "A. An aspect of Limited Liability involving state obligations.",
+      "B. A concept unrelated to Limited Liability.",
+      "C. A domestic-only rule conflicting with Limited Liability.",
+      "D. A historical exception that negates Limited Liability."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Limited Liability, a core element within international law frameworks.",
+    "knowledge_point": "Limited Liability"
+  },
+  {
+    "id": "COURSE-072",
+    "question": "What is a key concept related to Limited Liability in international law?",
+    "options": [
+      "A. An aspect of Limited Liability involving state obligations.",
+      "B. A concept unrelated to Limited Liability.",
+      "C. A domestic-only rule conflicting with Limited Liability.",
+      "D. A historical exception that negates Limited Liability."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Limited Liability, a core element within international law frameworks.",
+    "knowledge_point": "Limited Liability"
+  },
+  {
+    "id": "COURSE-073",
+    "question": "What is a key concept related to Limited Liability in international law?",
+    "options": [
+      "A. An aspect of Limited Liability involving state obligations.",
+      "B. A concept unrelated to Limited Liability.",
+      "C. A domestic-only rule conflicting with Limited Liability.",
+      "D. A historical exception that negates Limited Liability."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Limited Liability, a core element within international law frameworks.",
+    "knowledge_point": "Limited Liability"
+  },
+  {
+    "id": "COURSE-074",
+    "question": "What is a key concept related to Limited Liability in international law?",
+    "options": [
+      "A. An aspect of Limited Liability involving state obligations.",
+      "B. A concept unrelated to Limited Liability.",
+      "C. A domestic-only rule conflicting with Limited Liability.",
+      "D. A historical exception that negates Limited Liability."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Limited Liability, a core element within international law frameworks.",
+    "knowledge_point": "Limited Liability"
+  },
+  {
+    "id": "COURSE-075",
+    "question": "What is a key concept related to Limited Liability in international law?",
+    "options": [
+      "A. An aspect of Limited Liability involving state obligations.",
+      "B. A concept unrelated to Limited Liability.",
+      "C. A domestic-only rule conflicting with Limited Liability.",
+      "D. A historical exception that negates Limited Liability."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Limited Liability, a core element within international law frameworks.",
+    "knowledge_point": "Limited Liability"
+  },
+  {
+    "id": "COURSE-076",
+    "question": "What is a key concept related to Limited Liability in international law?",
+    "options": [
+      "A. An aspect of Limited Liability involving state obligations.",
+      "B. A concept unrelated to Limited Liability.",
+      "C. A domestic-only rule conflicting with Limited Liability.",
+      "D. A historical exception that negates Limited Liability."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Limited Liability, a core element within international law frameworks.",
+    "knowledge_point": "Limited Liability"
+  },
+  {
+    "id": "COURSE-077",
+    "question": "What is a key concept related to Limited Liability in international law?",
+    "options": [
+      "A. An aspect of Limited Liability involving state obligations.",
+      "B. A concept unrelated to Limited Liability.",
+      "C. A domestic-only rule conflicting with Limited Liability.",
+      "D. A historical exception that negates Limited Liability."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Limited Liability, a core element within international law frameworks.",
+    "knowledge_point": "Limited Liability"
+  },
+  {
+    "id": "COURSE-078",
+    "question": "What is a key concept related to Limited Liability in international law?",
+    "options": [
+      "A. An aspect of Limited Liability involving state obligations.",
+      "B. A concept unrelated to Limited Liability.",
+      "C. A domestic-only rule conflicting with Limited Liability.",
+      "D. A historical exception that negates Limited Liability."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Limited Liability, a core element within international law frameworks.",
+    "knowledge_point": "Limited Liability"
+  },
+  {
+    "id": "COURSE-079",
+    "question": "What is a key concept related to Limited Liability in international law?",
+    "options": [
+      "A. An aspect of Limited Liability involving state obligations.",
+      "B. A concept unrelated to Limited Liability.",
+      "C. A domestic-only rule conflicting with Limited Liability.",
+      "D. A historical exception that negates Limited Liability."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Limited Liability, a core element within international law frameworks.",
+    "knowledge_point": "Limited Liability"
+  },
+  {
+    "id": "COURSE-080",
+    "question": "What is a key concept related to Limited Liability in international law?",
+    "options": [
+      "A. An aspect of Limited Liability involving state obligations.",
+      "B. A concept unrelated to Limited Liability.",
+      "C. A domestic-only rule conflicting with Limited Liability.",
+      "D. A historical exception that negates Limited Liability."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Limited Liability, a core element within international law frameworks.",
+    "knowledge_point": "Limited Liability"
+  },
+  {
+    "id": "COURSE-081",
+    "question": "What is a key concept related to Jurisdiction in international law?",
+    "options": [
+      "A. An aspect of Jurisdiction involving state obligations.",
+      "B. A concept unrelated to Jurisdiction.",
+      "C. A domestic-only rule conflicting with Jurisdiction.",
+      "D. A historical exception that negates Jurisdiction."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Jurisdiction, a core element within international law frameworks.",
+    "knowledge_point": "Jurisdiction"
+  },
+  {
+    "id": "COURSE-082",
+    "question": "What is a key concept related to Jurisdiction in international law?",
+    "options": [
+      "A. An aspect of Jurisdiction involving state obligations.",
+      "B. A concept unrelated to Jurisdiction.",
+      "C. A domestic-only rule conflicting with Jurisdiction.",
+      "D. A historical exception that negates Jurisdiction."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Jurisdiction, a core element within international law frameworks.",
+    "knowledge_point": "Jurisdiction"
+  },
+  {
+    "id": "COURSE-083",
+    "question": "What is a key concept related to Jurisdiction in international law?",
+    "options": [
+      "A. An aspect of Jurisdiction involving state obligations.",
+      "B. A concept unrelated to Jurisdiction.",
+      "C. A domestic-only rule conflicting with Jurisdiction.",
+      "D. A historical exception that negates Jurisdiction."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Jurisdiction, a core element within international law frameworks.",
+    "knowledge_point": "Jurisdiction"
+  },
+  {
+    "id": "COURSE-084",
+    "question": "What is a key concept related to Jurisdiction in international law?",
+    "options": [
+      "A. An aspect of Jurisdiction involving state obligations.",
+      "B. A concept unrelated to Jurisdiction.",
+      "C. A domestic-only rule conflicting with Jurisdiction.",
+      "D. A historical exception that negates Jurisdiction."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Jurisdiction, a core element within international law frameworks.",
+    "knowledge_point": "Jurisdiction"
+  },
+  {
+    "id": "COURSE-085",
+    "question": "What is a key concept related to Jurisdiction in international law?",
+    "options": [
+      "A. An aspect of Jurisdiction involving state obligations.",
+      "B. A concept unrelated to Jurisdiction.",
+      "C. A domestic-only rule conflicting with Jurisdiction.",
+      "D. A historical exception that negates Jurisdiction."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Jurisdiction, a core element within international law frameworks.",
+    "knowledge_point": "Jurisdiction"
+  },
+  {
+    "id": "COURSE-086",
+    "question": "What is a key concept related to Jurisdiction in international law?",
+    "options": [
+      "A. An aspect of Jurisdiction involving state obligations.",
+      "B. A concept unrelated to Jurisdiction.",
+      "C. A domestic-only rule conflicting with Jurisdiction.",
+      "D. A historical exception that negates Jurisdiction."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Jurisdiction, a core element within international law frameworks.",
+    "knowledge_point": "Jurisdiction"
+  },
+  {
+    "id": "COURSE-087",
+    "question": "What is a key concept related to Jurisdiction in international law?",
+    "options": [
+      "A. An aspect of Jurisdiction involving state obligations.",
+      "B. A concept unrelated to Jurisdiction.",
+      "C. A domestic-only rule conflicting with Jurisdiction.",
+      "D. A historical exception that negates Jurisdiction."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Jurisdiction, a core element within international law frameworks.",
+    "knowledge_point": "Jurisdiction"
+  },
+  {
+    "id": "COURSE-088",
+    "question": "What is a key concept related to Jurisdiction in international law?",
+    "options": [
+      "A. An aspect of Jurisdiction involving state obligations.",
+      "B. A concept unrelated to Jurisdiction.",
+      "C. A domestic-only rule conflicting with Jurisdiction.",
+      "D. A historical exception that negates Jurisdiction."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Jurisdiction, a core element within international law frameworks.",
+    "knowledge_point": "Jurisdiction"
+  },
+  {
+    "id": "COURSE-089",
+    "question": "What is a key concept related to Jurisdiction in international law?",
+    "options": [
+      "A. An aspect of Jurisdiction involving state obligations.",
+      "B. A concept unrelated to Jurisdiction.",
+      "C. A domestic-only rule conflicting with Jurisdiction.",
+      "D. A historical exception that negates Jurisdiction."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Jurisdiction, a core element within international law frameworks.",
+    "knowledge_point": "Jurisdiction"
+  },
+  {
+    "id": "COURSE-090",
+    "question": "What is a key concept related to Jurisdiction in international law?",
+    "options": [
+      "A. An aspect of Jurisdiction involving state obligations.",
+      "B. A concept unrelated to Jurisdiction.",
+      "C. A domestic-only rule conflicting with Jurisdiction.",
+      "D. A historical exception that negates Jurisdiction."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Jurisdiction, a core element within international law frameworks.",
+    "knowledge_point": "Jurisdiction"
+  },
+  {
+    "id": "COURSE-091",
+    "question": "What is a key concept related to Applicable Law in international law?",
+    "options": [
+      "A. An aspect of Applicable Law involving state obligations.",
+      "B. A concept unrelated to Applicable Law.",
+      "C. A domestic-only rule conflicting with Applicable Law.",
+      "D. A historical exception that negates Applicable Law."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Applicable Law, a core element within international law frameworks.",
+    "knowledge_point": "Applicable Law"
+  },
+  {
+    "id": "COURSE-092",
+    "question": "What is a key concept related to Applicable Law in international law?",
+    "options": [
+      "A. An aspect of Applicable Law involving state obligations.",
+      "B. A concept unrelated to Applicable Law.",
+      "C. A domestic-only rule conflicting with Applicable Law.",
+      "D. A historical exception that negates Applicable Law."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Applicable Law, a core element within international law frameworks.",
+    "knowledge_point": "Applicable Law"
+  },
+  {
+    "id": "COURSE-093",
+    "question": "What is a key concept related to Applicable Law in international law?",
+    "options": [
+      "A. An aspect of Applicable Law involving state obligations.",
+      "B. A concept unrelated to Applicable Law.",
+      "C. A domestic-only rule conflicting with Applicable Law.",
+      "D. A historical exception that negates Applicable Law."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Applicable Law, a core element within international law frameworks.",
+    "knowledge_point": "Applicable Law"
+  },
+  {
+    "id": "COURSE-094",
+    "question": "What is a key concept related to Applicable Law in international law?",
+    "options": [
+      "A. An aspect of Applicable Law involving state obligations.",
+      "B. A concept unrelated to Applicable Law.",
+      "C. A domestic-only rule conflicting with Applicable Law.",
+      "D. A historical exception that negates Applicable Law."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Applicable Law, a core element within international law frameworks.",
+    "knowledge_point": "Applicable Law"
+  },
+  {
+    "id": "COURSE-095",
+    "question": "What is a key concept related to Applicable Law in international law?",
+    "options": [
+      "A. An aspect of Applicable Law involving state obligations.",
+      "B. A concept unrelated to Applicable Law.",
+      "C. A domestic-only rule conflicting with Applicable Law.",
+      "D. A historical exception that negates Applicable Law."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Applicable Law, a core element within international law frameworks.",
+    "knowledge_point": "Applicable Law"
+  },
+  {
+    "id": "COURSE-096",
+    "question": "What is a key concept related to Applicable Law in international law?",
+    "options": [
+      "A. An aspect of Applicable Law involving state obligations.",
+      "B. A concept unrelated to Applicable Law.",
+      "C. A domestic-only rule conflicting with Applicable Law.",
+      "D. A historical exception that negates Applicable Law."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Applicable Law, a core element within international law frameworks.",
+    "knowledge_point": "Applicable Law"
+  },
+  {
+    "id": "COURSE-097",
+    "question": "What is a key concept related to Applicable Law in international law?",
+    "options": [
+      "A. An aspect of Applicable Law involving state obligations.",
+      "B. A concept unrelated to Applicable Law.",
+      "C. A domestic-only rule conflicting with Applicable Law.",
+      "D. A historical exception that negates Applicable Law."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Applicable Law, a core element within international law frameworks.",
+    "knowledge_point": "Applicable Law"
+  },
+  {
+    "id": "COURSE-098",
+    "question": "What is a key concept related to Applicable Law in international law?",
+    "options": [
+      "A. An aspect of Applicable Law involving state obligations.",
+      "B. A concept unrelated to Applicable Law.",
+      "C. A domestic-only rule conflicting with Applicable Law.",
+      "D. A historical exception that negates Applicable Law."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Applicable Law, a core element within international law frameworks.",
+    "knowledge_point": "Applicable Law"
+  },
+  {
+    "id": "COURSE-099",
+    "question": "What is a key concept related to Applicable Law in international law?",
+    "options": [
+      "A. An aspect of Applicable Law involving state obligations.",
+      "B. A concept unrelated to Applicable Law.",
+      "C. A domestic-only rule conflicting with Applicable Law.",
+      "D. A historical exception that negates Applicable Law."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Applicable Law, a core element within international law frameworks.",
+    "knowledge_point": "Applicable Law"
+  },
+  {
+    "id": "COURSE-100",
+    "question": "What is a key concept related to Applicable Law in international law?",
+    "options": [
+      "A. An aspect of Applicable Law involving state obligations.",
+      "B. A concept unrelated to Applicable Law.",
+      "C. A domestic-only rule conflicting with Applicable Law.",
+      "D. A historical exception that negates Applicable Law."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Applicable Law, a core element within international law frameworks.",
+    "knowledge_point": "Applicable Law"
+  },
+  {
+    "id": "COURSE-101",
+    "question": "What is a key concept related to Enforcement in international law?",
+    "options": [
+      "A. An aspect of Enforcement involving state obligations.",
+      "B. A concept unrelated to Enforcement.",
+      "C. A domestic-only rule conflicting with Enforcement.",
+      "D. A historical exception that negates Enforcement."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Enforcement, a core element within international law frameworks.",
+    "knowledge_point": "Enforcement"
+  },
+  {
+    "id": "COURSE-102",
+    "question": "What is a key concept related to Enforcement in international law?",
+    "options": [
+      "A. An aspect of Enforcement involving state obligations.",
+      "B. A concept unrelated to Enforcement.",
+      "C. A domestic-only rule conflicting with Enforcement.",
+      "D. A historical exception that negates Enforcement."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Enforcement, a core element within international law frameworks.",
+    "knowledge_point": "Enforcement"
+  },
+  {
+    "id": "COURSE-103",
+    "question": "What is a key concept related to Enforcement in international law?",
+    "options": [
+      "A. An aspect of Enforcement involving state obligations.",
+      "B. A concept unrelated to Enforcement.",
+      "C. A domestic-only rule conflicting with Enforcement.",
+      "D. A historical exception that negates Enforcement."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Enforcement, a core element within international law frameworks.",
+    "knowledge_point": "Enforcement"
+  },
+  {
+    "id": "COURSE-104",
+    "question": "What is a key concept related to Enforcement in international law?",
+    "options": [
+      "A. An aspect of Enforcement involving state obligations.",
+      "B. A concept unrelated to Enforcement.",
+      "C. A domestic-only rule conflicting with Enforcement.",
+      "D. A historical exception that negates Enforcement."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Enforcement, a core element within international law frameworks.",
+    "knowledge_point": "Enforcement"
+  },
+  {
+    "id": "COURSE-105",
+    "question": "What is a key concept related to Enforcement in international law?",
+    "options": [
+      "A. An aspect of Enforcement involving state obligations.",
+      "B. A concept unrelated to Enforcement.",
+      "C. A domestic-only rule conflicting with Enforcement.",
+      "D. A historical exception that negates Enforcement."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Enforcement, a core element within international law frameworks.",
+    "knowledge_point": "Enforcement"
+  },
+  {
+    "id": "COURSE-106",
+    "question": "What is a key concept related to Enforcement in international law?",
+    "options": [
+      "A. An aspect of Enforcement involving state obligations.",
+      "B. A concept unrelated to Enforcement.",
+      "C. A domestic-only rule conflicting with Enforcement.",
+      "D. A historical exception that negates Enforcement."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Enforcement, a core element within international law frameworks.",
+    "knowledge_point": "Enforcement"
+  },
+  {
+    "id": "COURSE-107",
+    "question": "What is a key concept related to Enforcement in international law?",
+    "options": [
+      "A. An aspect of Enforcement involving state obligations.",
+      "B. A concept unrelated to Enforcement.",
+      "C. A domestic-only rule conflicting with Enforcement.",
+      "D. A historical exception that negates Enforcement."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Enforcement, a core element within international law frameworks.",
+    "knowledge_point": "Enforcement"
+  },
+  {
+    "id": "COURSE-108",
+    "question": "What is a key concept related to Enforcement in international law?",
+    "options": [
+      "A. An aspect of Enforcement involving state obligations.",
+      "B. A concept unrelated to Enforcement.",
+      "C. A domestic-only rule conflicting with Enforcement.",
+      "D. A historical exception that negates Enforcement."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Enforcement, a core element within international law frameworks.",
+    "knowledge_point": "Enforcement"
+  },
+  {
+    "id": "COURSE-109",
+    "question": "What is a key concept related to Enforcement in international law?",
+    "options": [
+      "A. An aspect of Enforcement involving state obligations.",
+      "B. A concept unrelated to Enforcement.",
+      "C. A domestic-only rule conflicting with Enforcement.",
+      "D. A historical exception that negates Enforcement."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Enforcement, a core element within international law frameworks.",
+    "knowledge_point": "Enforcement"
+  },
+  {
+    "id": "COURSE-110",
+    "question": "What is a key concept related to Enforcement in international law?",
+    "options": [
+      "A. An aspect of Enforcement involving state obligations.",
+      "B. A concept unrelated to Enforcement.",
+      "C. A domestic-only rule conflicting with Enforcement.",
+      "D. A historical exception that negates Enforcement."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Enforcement, a core element within international law frameworks.",
+    "knowledge_point": "Enforcement"
+  },
+  {
+    "id": "COURSE-111",
+    "question": "What is a key concept related to Arbitration in international law?",
+    "options": [
+      "A. An aspect of Arbitration involving state obligations.",
+      "B. A concept unrelated to Arbitration.",
+      "C. A domestic-only rule conflicting with Arbitration.",
+      "D. A historical exception that negates Arbitration."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Arbitration, a core element within international law frameworks.",
+    "knowledge_point": "Arbitration"
+  },
+  {
+    "id": "COURSE-112",
+    "question": "What is a key concept related to Arbitration in international law?",
+    "options": [
+      "A. An aspect of Arbitration involving state obligations.",
+      "B. A concept unrelated to Arbitration.",
+      "C. A domestic-only rule conflicting with Arbitration.",
+      "D. A historical exception that negates Arbitration."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Arbitration, a core element within international law frameworks.",
+    "knowledge_point": "Arbitration"
+  },
+  {
+    "id": "COURSE-113",
+    "question": "What is a key concept related to Arbitration in international law?",
+    "options": [
+      "A. An aspect of Arbitration involving state obligations.",
+      "B. A concept unrelated to Arbitration.",
+      "C. A domestic-only rule conflicting with Arbitration.",
+      "D. A historical exception that negates Arbitration."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Arbitration, a core element within international law frameworks.",
+    "knowledge_point": "Arbitration"
+  },
+  {
+    "id": "COURSE-114",
+    "question": "What is a key concept related to Arbitration in international law?",
+    "options": [
+      "A. An aspect of Arbitration involving state obligations.",
+      "B. A concept unrelated to Arbitration.",
+      "C. A domestic-only rule conflicting with Arbitration.",
+      "D. A historical exception that negates Arbitration."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Arbitration, a core element within international law frameworks.",
+    "knowledge_point": "Arbitration"
+  },
+  {
+    "id": "COURSE-115",
+    "question": "What is a key concept related to Arbitration in international law?",
+    "options": [
+      "A. An aspect of Arbitration involving state obligations.",
+      "B. A concept unrelated to Arbitration.",
+      "C. A domestic-only rule conflicting with Arbitration.",
+      "D. A historical exception that negates Arbitration."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Arbitration, a core element within international law frameworks.",
+    "knowledge_point": "Arbitration"
+  },
+  {
+    "id": "COURSE-116",
+    "question": "What is a key concept related to Arbitration in international law?",
+    "options": [
+      "A. An aspect of Arbitration involving state obligations.",
+      "B. A concept unrelated to Arbitration.",
+      "C. A domestic-only rule conflicting with Arbitration.",
+      "D. A historical exception that negates Arbitration."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Arbitration, a core element within international law frameworks.",
+    "knowledge_point": "Arbitration"
+  },
+  {
+    "id": "COURSE-117",
+    "question": "What is a key concept related to Arbitration in international law?",
+    "options": [
+      "A. An aspect of Arbitration involving state obligations.",
+      "B. A concept unrelated to Arbitration.",
+      "C. A domestic-only rule conflicting with Arbitration.",
+      "D. A historical exception that negates Arbitration."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Arbitration, a core element within international law frameworks.",
+    "knowledge_point": "Arbitration"
+  },
+  {
+    "id": "COURSE-118",
+    "question": "What is a key concept related to Arbitration in international law?",
+    "options": [
+      "A. An aspect of Arbitration involving state obligations.",
+      "B. A concept unrelated to Arbitration.",
+      "C. A domestic-only rule conflicting with Arbitration.",
+      "D. A historical exception that negates Arbitration."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Arbitration, a core element within international law frameworks.",
+    "knowledge_point": "Arbitration"
+  },
+  {
+    "id": "COURSE-119",
+    "question": "What is a key concept related to Arbitration in international law?",
+    "options": [
+      "A. An aspect of Arbitration involving state obligations.",
+      "B. A concept unrelated to Arbitration.",
+      "C. A domestic-only rule conflicting with Arbitration.",
+      "D. A historical exception that negates Arbitration."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Arbitration, a core element within international law frameworks.",
+    "knowledge_point": "Arbitration"
+  },
+  {
+    "id": "COURSE-120",
+    "question": "What is a key concept related to Arbitration in international law?",
+    "options": [
+      "A. An aspect of Arbitration involving state obligations.",
+      "B. A concept unrelated to Arbitration.",
+      "C. A domestic-only rule conflicting with Arbitration.",
+      "D. A historical exception that negates Arbitration."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Arbitration, a core element within international law frameworks.",
+    "knowledge_point": "Arbitration"
+  },
+  {
+    "id": "COURSE-121",
+    "question": "What is a key concept related to Litigation in international law?",
+    "options": [
+      "A. An aspect of Litigation involving state obligations.",
+      "B. A concept unrelated to Litigation.",
+      "C. A domestic-only rule conflicting with Litigation.",
+      "D. A historical exception that negates Litigation."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Litigation, a core element within international law frameworks.",
+    "knowledge_point": "Litigation"
+  },
+  {
+    "id": "COURSE-122",
+    "question": "What is a key concept related to Litigation in international law?",
+    "options": [
+      "A. An aspect of Litigation involving state obligations.",
+      "B. A concept unrelated to Litigation.",
+      "C. A domestic-only rule conflicting with Litigation.",
+      "D. A historical exception that negates Litigation."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Litigation, a core element within international law frameworks.",
+    "knowledge_point": "Litigation"
+  },
+  {
+    "id": "COURSE-123",
+    "question": "What is a key concept related to Litigation in international law?",
+    "options": [
+      "A. An aspect of Litigation involving state obligations.",
+      "B. A concept unrelated to Litigation.",
+      "C. A domestic-only rule conflicting with Litigation.",
+      "D. A historical exception that negates Litigation."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Litigation, a core element within international law frameworks.",
+    "knowledge_point": "Litigation"
+  },
+  {
+    "id": "COURSE-124",
+    "question": "What is a key concept related to Litigation in international law?",
+    "options": [
+      "A. An aspect of Litigation involving state obligations.",
+      "B. A concept unrelated to Litigation.",
+      "C. A domestic-only rule conflicting with Litigation.",
+      "D. A historical exception that negates Litigation."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Litigation, a core element within international law frameworks.",
+    "knowledge_point": "Litigation"
+  },
+  {
+    "id": "COURSE-125",
+    "question": "What is a key concept related to Litigation in international law?",
+    "options": [
+      "A. An aspect of Litigation involving state obligations.",
+      "B. A concept unrelated to Litigation.",
+      "C. A domestic-only rule conflicting with Litigation.",
+      "D. A historical exception that negates Litigation."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Litigation, a core element within international law frameworks.",
+    "knowledge_point": "Litigation"
+  },
+  {
+    "id": "COURSE-126",
+    "question": "What is a key concept related to Litigation in international law?",
+    "options": [
+      "A. An aspect of Litigation involving state obligations.",
+      "B. A concept unrelated to Litigation.",
+      "C. A domestic-only rule conflicting with Litigation.",
+      "D. A historical exception that negates Litigation."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Litigation, a core element within international law frameworks.",
+    "knowledge_point": "Litigation"
+  },
+  {
+    "id": "COURSE-127",
+    "question": "What is a key concept related to Litigation in international law?",
+    "options": [
+      "A. An aspect of Litigation involving state obligations.",
+      "B. A concept unrelated to Litigation.",
+      "C. A domestic-only rule conflicting with Litigation.",
+      "D. A historical exception that negates Litigation."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Litigation, a core element within international law frameworks.",
+    "knowledge_point": "Litigation"
+  },
+  {
+    "id": "COURSE-128",
+    "question": "What is a key concept related to Litigation in international law?",
+    "options": [
+      "A. An aspect of Litigation involving state obligations.",
+      "B. A concept unrelated to Litigation.",
+      "C. A domestic-only rule conflicting with Litigation.",
+      "D. A historical exception that negates Litigation."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Litigation, a core element within international law frameworks.",
+    "knowledge_point": "Litigation"
+  },
+  {
+    "id": "COURSE-129",
+    "question": "What is a key concept related to Litigation in international law?",
+    "options": [
+      "A. An aspect of Litigation involving state obligations.",
+      "B. A concept unrelated to Litigation.",
+      "C. A domestic-only rule conflicting with Litigation.",
+      "D. A historical exception that negates Litigation."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Litigation, a core element within international law frameworks.",
+    "knowledge_point": "Litigation"
+  },
+  {
+    "id": "COURSE-130",
+    "question": "What is a key concept related to Litigation in international law?",
+    "options": [
+      "A. An aspect of Litigation involving state obligations.",
+      "B. A concept unrelated to Litigation.",
+      "C. A domestic-only rule conflicting with Litigation.",
+      "D. A historical exception that negates Litigation."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Litigation, a core element within international law frameworks.",
+    "knowledge_point": "Litigation"
+  },
+  {
+    "id": "COURSE-131",
+    "question": "What is a key concept related to Mediation in international law?",
+    "options": [
+      "A. An aspect of Mediation involving state obligations.",
+      "B. A concept unrelated to Mediation.",
+      "C. A domestic-only rule conflicting with Mediation.",
+      "D. A historical exception that negates Mediation."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Mediation, a core element within international law frameworks.",
+    "knowledge_point": "Mediation"
+  },
+  {
+    "id": "COURSE-132",
+    "question": "What is a key concept related to Mediation in international law?",
+    "options": [
+      "A. An aspect of Mediation involving state obligations.",
+      "B. A concept unrelated to Mediation.",
+      "C. A domestic-only rule conflicting with Mediation.",
+      "D. A historical exception that negates Mediation."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Mediation, a core element within international law frameworks.",
+    "knowledge_point": "Mediation"
+  },
+  {
+    "id": "COURSE-133",
+    "question": "What is a key concept related to Mediation in international law?",
+    "options": [
+      "A. An aspect of Mediation involving state obligations.",
+      "B. A concept unrelated to Mediation.",
+      "C. A domestic-only rule conflicting with Mediation.",
+      "D. A historical exception that negates Mediation."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Mediation, a core element within international law frameworks.",
+    "knowledge_point": "Mediation"
+  },
+  {
+    "id": "COURSE-134",
+    "question": "What is a key concept related to Mediation in international law?",
+    "options": [
+      "A. An aspect of Mediation involving state obligations.",
+      "B. A concept unrelated to Mediation.",
+      "C. A domestic-only rule conflicting with Mediation.",
+      "D. A historical exception that negates Mediation."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Mediation, a core element within international law frameworks.",
+    "knowledge_point": "Mediation"
+  },
+  {
+    "id": "COURSE-135",
+    "question": "What is a key concept related to Mediation in international law?",
+    "options": [
+      "A. An aspect of Mediation involving state obligations.",
+      "B. A concept unrelated to Mediation.",
+      "C. A domestic-only rule conflicting with Mediation.",
+      "D. A historical exception that negates Mediation."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Mediation, a core element within international law frameworks.",
+    "knowledge_point": "Mediation"
+  },
+  {
+    "id": "COURSE-136",
+    "question": "What is a key concept related to Mediation in international law?",
+    "options": [
+      "A. An aspect of Mediation involving state obligations.",
+      "B. A concept unrelated to Mediation.",
+      "C. A domestic-only rule conflicting with Mediation.",
+      "D. A historical exception that negates Mediation."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Mediation, a core element within international law frameworks.",
+    "knowledge_point": "Mediation"
+  },
+  {
+    "id": "COURSE-137",
+    "question": "What is a key concept related to Mediation in international law?",
+    "options": [
+      "A. An aspect of Mediation involving state obligations.",
+      "B. A concept unrelated to Mediation.",
+      "C. A domestic-only rule conflicting with Mediation.",
+      "D. A historical exception that negates Mediation."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Mediation, a core element within international law frameworks.",
+    "knowledge_point": "Mediation"
+  },
+  {
+    "id": "COURSE-138",
+    "question": "What is a key concept related to Mediation in international law?",
+    "options": [
+      "A. An aspect of Mediation involving state obligations.",
+      "B. A concept unrelated to Mediation.",
+      "C. A domestic-only rule conflicting with Mediation.",
+      "D. A historical exception that negates Mediation."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Mediation, a core element within international law frameworks.",
+    "knowledge_point": "Mediation"
+  },
+  {
+    "id": "COURSE-139",
+    "question": "What is a key concept related to Mediation in international law?",
+    "options": [
+      "A. An aspect of Mediation involving state obligations.",
+      "B. A concept unrelated to Mediation.",
+      "C. A domestic-only rule conflicting with Mediation.",
+      "D. A historical exception that negates Mediation."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Mediation, a core element within international law frameworks.",
+    "knowledge_point": "Mediation"
+  },
+  {
+    "id": "COURSE-140",
+    "question": "What is a key concept related to Mediation in international law?",
+    "options": [
+      "A. An aspect of Mediation involving state obligations.",
+      "B. A concept unrelated to Mediation.",
+      "C. A domestic-only rule conflicting with Mediation.",
+      "D. A historical exception that negates Mediation."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Mediation, a core element within international law frameworks.",
+    "knowledge_point": "Mediation"
+  },
+  {
+    "id": "COURSE-141",
+    "question": "What is a key concept related to Human Rights in international law?",
+    "options": [
+      "A. An aspect of Human Rights involving state obligations.",
+      "B. A concept unrelated to Human Rights.",
+      "C. A domestic-only rule conflicting with Human Rights.",
+      "D. A historical exception that negates Human Rights."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Human Rights, a core element within international law frameworks.",
+    "knowledge_point": "Human Rights"
+  },
+  {
+    "id": "COURSE-142",
+    "question": "What is a key concept related to Human Rights in international law?",
+    "options": [
+      "A. An aspect of Human Rights involving state obligations.",
+      "B. A concept unrelated to Human Rights.",
+      "C. A domestic-only rule conflicting with Human Rights.",
+      "D. A historical exception that negates Human Rights."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Human Rights, a core element within international law frameworks.",
+    "knowledge_point": "Human Rights"
+  },
+  {
+    "id": "COURSE-143",
+    "question": "What is a key concept related to Human Rights in international law?",
+    "options": [
+      "A. An aspect of Human Rights involving state obligations.",
+      "B. A concept unrelated to Human Rights.",
+      "C. A domestic-only rule conflicting with Human Rights.",
+      "D. A historical exception that negates Human Rights."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Human Rights, a core element within international law frameworks.",
+    "knowledge_point": "Human Rights"
+  },
+  {
+    "id": "COURSE-144",
+    "question": "What is a key concept related to Human Rights in international law?",
+    "options": [
+      "A. An aspect of Human Rights involving state obligations.",
+      "B. A concept unrelated to Human Rights.",
+      "C. A domestic-only rule conflicting with Human Rights.",
+      "D. A historical exception that negates Human Rights."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Human Rights, a core element within international law frameworks.",
+    "knowledge_point": "Human Rights"
+  },
+  {
+    "id": "COURSE-145",
+    "question": "What is a key concept related to Human Rights in international law?",
+    "options": [
+      "A. An aspect of Human Rights involving state obligations.",
+      "B. A concept unrelated to Human Rights.",
+      "C. A domestic-only rule conflicting with Human Rights.",
+      "D. A historical exception that negates Human Rights."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Human Rights, a core element within international law frameworks.",
+    "knowledge_point": "Human Rights"
+  },
+  {
+    "id": "COURSE-146",
+    "question": "What is a key concept related to Human Rights in international law?",
+    "options": [
+      "A. An aspect of Human Rights involving state obligations.",
+      "B. A concept unrelated to Human Rights.",
+      "C. A domestic-only rule conflicting with Human Rights.",
+      "D. A historical exception that negates Human Rights."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Human Rights, a core element within international law frameworks.",
+    "knowledge_point": "Human Rights"
+  },
+  {
+    "id": "COURSE-147",
+    "question": "What is a key concept related to Human Rights in international law?",
+    "options": [
+      "A. An aspect of Human Rights involving state obligations.",
+      "B. A concept unrelated to Human Rights.",
+      "C. A domestic-only rule conflicting with Human Rights.",
+      "D. A historical exception that negates Human Rights."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Human Rights, a core element within international law frameworks.",
+    "knowledge_point": "Human Rights"
+  },
+  {
+    "id": "COURSE-148",
+    "question": "What is a key concept related to Human Rights in international law?",
+    "options": [
+      "A. An aspect of Human Rights involving state obligations.",
+      "B. A concept unrelated to Human Rights.",
+      "C. A domestic-only rule conflicting with Human Rights.",
+      "D. A historical exception that negates Human Rights."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Human Rights, a core element within international law frameworks.",
+    "knowledge_point": "Human Rights"
+  },
+  {
+    "id": "COURSE-149",
+    "question": "What is a key concept related to Human Rights in international law?",
+    "options": [
+      "A. An aspect of Human Rights involving state obligations.",
+      "B. A concept unrelated to Human Rights.",
+      "C. A domestic-only rule conflicting with Human Rights.",
+      "D. A historical exception that negates Human Rights."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Human Rights, a core element within international law frameworks.",
+    "knowledge_point": "Human Rights"
+  },
+  {
+    "id": "COURSE-150",
+    "question": "What is a key concept related to Human Rights in international law?",
+    "options": [
+      "A. An aspect of Human Rights involving state obligations.",
+      "B. A concept unrelated to Human Rights.",
+      "C. A domestic-only rule conflicting with Human Rights.",
+      "D. A historical exception that negates Human Rights."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Human Rights, a core element within international law frameworks.",
+    "knowledge_point": "Human Rights"
+  },
+  {
+    "id": "COURSE-151",
+    "question": "What is a key concept related to Soft Law vs Hard Law in international law?",
+    "options": [
+      "A. An aspect of Soft Law vs Hard Law involving state obligations.",
+      "B. A concept unrelated to Soft Law vs Hard Law.",
+      "C. A domestic-only rule conflicting with Soft Law vs Hard Law.",
+      "D. A historical exception that negates Soft Law vs Hard Law."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Soft Law vs Hard Law, a core element within international law frameworks.",
+    "knowledge_point": "Soft Law vs Hard Law"
+  },
+  {
+    "id": "COURSE-152",
+    "question": "What is a key concept related to Soft Law vs Hard Law in international law?",
+    "options": [
+      "A. An aspect of Soft Law vs Hard Law involving state obligations.",
+      "B. A concept unrelated to Soft Law vs Hard Law.",
+      "C. A domestic-only rule conflicting with Soft Law vs Hard Law.",
+      "D. A historical exception that negates Soft Law vs Hard Law."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Soft Law vs Hard Law, a core element within international law frameworks.",
+    "knowledge_point": "Soft Law vs Hard Law"
+  },
+  {
+    "id": "COURSE-153",
+    "question": "What is a key concept related to Soft Law vs Hard Law in international law?",
+    "options": [
+      "A. An aspect of Soft Law vs Hard Law involving state obligations.",
+      "B. A concept unrelated to Soft Law vs Hard Law.",
+      "C. A domestic-only rule conflicting with Soft Law vs Hard Law.",
+      "D. A historical exception that negates Soft Law vs Hard Law."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Soft Law vs Hard Law, a core element within international law frameworks.",
+    "knowledge_point": "Soft Law vs Hard Law"
+  },
+  {
+    "id": "COURSE-154",
+    "question": "What is a key concept related to Soft Law vs Hard Law in international law?",
+    "options": [
+      "A. An aspect of Soft Law vs Hard Law involving state obligations.",
+      "B. A concept unrelated to Soft Law vs Hard Law.",
+      "C. A domestic-only rule conflicting with Soft Law vs Hard Law.",
+      "D. A historical exception that negates Soft Law vs Hard Law."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Soft Law vs Hard Law, a core element within international law frameworks.",
+    "knowledge_point": "Soft Law vs Hard Law"
+  },
+  {
+    "id": "COURSE-155",
+    "question": "What is a key concept related to Soft Law vs Hard Law in international law?",
+    "options": [
+      "A. An aspect of Soft Law vs Hard Law involving state obligations.",
+      "B. A concept unrelated to Soft Law vs Hard Law.",
+      "C. A domestic-only rule conflicting with Soft Law vs Hard Law.",
+      "D. A historical exception that negates Soft Law vs Hard Law."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Soft Law vs Hard Law, a core element within international law frameworks.",
+    "knowledge_point": "Soft Law vs Hard Law"
+  },
+  {
+    "id": "COURSE-156",
+    "question": "What is a key concept related to Soft Law vs Hard Law in international law?",
+    "options": [
+      "A. An aspect of Soft Law vs Hard Law involving state obligations.",
+      "B. A concept unrelated to Soft Law vs Hard Law.",
+      "C. A domestic-only rule conflicting with Soft Law vs Hard Law.",
+      "D. A historical exception that negates Soft Law vs Hard Law."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Soft Law vs Hard Law, a core element within international law frameworks.",
+    "knowledge_point": "Soft Law vs Hard Law"
+  },
+  {
+    "id": "COURSE-157",
+    "question": "What is a key concept related to Soft Law vs Hard Law in international law?",
+    "options": [
+      "A. An aspect of Soft Law vs Hard Law involving state obligations.",
+      "B. A concept unrelated to Soft Law vs Hard Law.",
+      "C. A domestic-only rule conflicting with Soft Law vs Hard Law.",
+      "D. A historical exception that negates Soft Law vs Hard Law."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Soft Law vs Hard Law, a core element within international law frameworks.",
+    "knowledge_point": "Soft Law vs Hard Law"
+  },
+  {
+    "id": "COURSE-158",
+    "question": "What is a key concept related to Soft Law vs Hard Law in international law?",
+    "options": [
+      "A. An aspect of Soft Law vs Hard Law involving state obligations.",
+      "B. A concept unrelated to Soft Law vs Hard Law.",
+      "C. A domestic-only rule conflicting with Soft Law vs Hard Law.",
+      "D. A historical exception that negates Soft Law vs Hard Law."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Soft Law vs Hard Law, a core element within international law frameworks.",
+    "knowledge_point": "Soft Law vs Hard Law"
+  },
+  {
+    "id": "COURSE-159",
+    "question": "What is a key concept related to Soft Law vs Hard Law in international law?",
+    "options": [
+      "A. An aspect of Soft Law vs Hard Law involving state obligations.",
+      "B. A concept unrelated to Soft Law vs Hard Law.",
+      "C. A domestic-only rule conflicting with Soft Law vs Hard Law.",
+      "D. A historical exception that negates Soft Law vs Hard Law."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Soft Law vs Hard Law, a core element within international law frameworks.",
+    "knowledge_point": "Soft Law vs Hard Law"
+  },
+  {
+    "id": "COURSE-160",
+    "question": "What is a key concept related to Soft Law vs Hard Law in international law?",
+    "options": [
+      "A. An aspect of Soft Law vs Hard Law involving state obligations.",
+      "B. A concept unrelated to Soft Law vs Hard Law.",
+      "C. A domestic-only rule conflicting with Soft Law vs Hard Law.",
+      "D. A historical exception that negates Soft Law vs Hard Law."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Soft Law vs Hard Law, a core element within international law frameworks.",
+    "knowledge_point": "Soft Law vs Hard Law"
+  },
+  {
+    "id": "COURSE-161",
+    "question": "What is a key concept related to Global Governance in international law?",
+    "options": [
+      "A. An aspect of Global Governance involving state obligations.",
+      "B. A concept unrelated to Global Governance.",
+      "C. A domestic-only rule conflicting with Global Governance.",
+      "D. A historical exception that negates Global Governance."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Global Governance, a core element within international law frameworks.",
+    "knowledge_point": "Global Governance"
+  },
+  {
+    "id": "COURSE-162",
+    "question": "What is a key concept related to Global Governance in international law?",
+    "options": [
+      "A. An aspect of Global Governance involving state obligations.",
+      "B. A concept unrelated to Global Governance.",
+      "C. A domestic-only rule conflicting with Global Governance.",
+      "D. A historical exception that negates Global Governance."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Global Governance, a core element within international law frameworks.",
+    "knowledge_point": "Global Governance"
+  },
+  {
+    "id": "COURSE-163",
+    "question": "What is a key concept related to Global Governance in international law?",
+    "options": [
+      "A. An aspect of Global Governance involving state obligations.",
+      "B. A concept unrelated to Global Governance.",
+      "C. A domestic-only rule conflicting with Global Governance.",
+      "D. A historical exception that negates Global Governance."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Global Governance, a core element within international law frameworks.",
+    "knowledge_point": "Global Governance"
+  },
+  {
+    "id": "COURSE-164",
+    "question": "What is a key concept related to Global Governance in international law?",
+    "options": [
+      "A. An aspect of Global Governance involving state obligations.",
+      "B. A concept unrelated to Global Governance.",
+      "C. A domestic-only rule conflicting with Global Governance.",
+      "D. A historical exception that negates Global Governance."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Global Governance, a core element within international law frameworks.",
+    "knowledge_point": "Global Governance"
+  },
+  {
+    "id": "COURSE-165",
+    "question": "What is a key concept related to Global Governance in international law?",
+    "options": [
+      "A. An aspect of Global Governance involving state obligations.",
+      "B. A concept unrelated to Global Governance.",
+      "C. A domestic-only rule conflicting with Global Governance.",
+      "D. A historical exception that negates Global Governance."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Global Governance, a core element within international law frameworks.",
+    "knowledge_point": "Global Governance"
+  },
+  {
+    "id": "COURSE-166",
+    "question": "What is a key concept related to Global Governance in international law?",
+    "options": [
+      "A. An aspect of Global Governance involving state obligations.",
+      "B. A concept unrelated to Global Governance.",
+      "C. A domestic-only rule conflicting with Global Governance.",
+      "D. A historical exception that negates Global Governance."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Global Governance, a core element within international law frameworks.",
+    "knowledge_point": "Global Governance"
+  },
+  {
+    "id": "COURSE-167",
+    "question": "What is a key concept related to Global Governance in international law?",
+    "options": [
+      "A. An aspect of Global Governance involving state obligations.",
+      "B. A concept unrelated to Global Governance.",
+      "C. A domestic-only rule conflicting with Global Governance.",
+      "D. A historical exception that negates Global Governance."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Global Governance, a core element within international law frameworks.",
+    "knowledge_point": "Global Governance"
+  },
+  {
+    "id": "COURSE-168",
+    "question": "What is a key concept related to Global Governance in international law?",
+    "options": [
+      "A. An aspect of Global Governance involving state obligations.",
+      "B. A concept unrelated to Global Governance.",
+      "C. A domestic-only rule conflicting with Global Governance.",
+      "D. A historical exception that negates Global Governance."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Global Governance, a core element within international law frameworks.",
+    "knowledge_point": "Global Governance"
+  },
+  {
+    "id": "COURSE-169",
+    "question": "What is a key concept related to Global Governance in international law?",
+    "options": [
+      "A. An aspect of Global Governance involving state obligations.",
+      "B. A concept unrelated to Global Governance.",
+      "C. A domestic-only rule conflicting with Global Governance.",
+      "D. A historical exception that negates Global Governance."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Global Governance, a core element within international law frameworks.",
+    "knowledge_point": "Global Governance"
+  },
+  {
+    "id": "COURSE-170",
+    "question": "What is a key concept related to Global Governance in international law?",
+    "options": [
+      "A. An aspect of Global Governance involving state obligations.",
+      "B. A concept unrelated to Global Governance.",
+      "C. A domestic-only rule conflicting with Global Governance.",
+      "D. A historical exception that negates Global Governance."
+    ],
+    "answer": "A",
+    "explanation": "This question concerns Global Governance, a core element within international law frameworks.",
+    "knowledge_point": "Global Governance"
   }
 ]
