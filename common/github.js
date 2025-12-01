@@ -7,9 +7,9 @@
 // 2. 仓库名
 // 3. 你的安全 Token（下一步教你生成）
 
-const GITHUB_USERNAME = "你的GitHub用户名";
-const REPO_NAME = "你的仓库名";
-const TOKEN = "你的GitHub Token";  // 之后替换
+const GITHUB_USERNAME = "Aniyaqwq";
+const REPO_NAME = "S1-Learning";
+const TOKEN = "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";
 
 
 // 写入错题
