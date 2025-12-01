@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>学习刷题系统</title>
+
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", Helvetica, sans-serif;
+            background: #fafafa;
+        }
+
+        h1 {
+            text-align: center;
+            margin-top: 40px;
+            font-size: 32px;
+            font-weight: 700;
+        }
+
+        .container {
+            width: 90%;
+            max-width: 900px;
+            margin: 0 auto;
+            margin-top: 40px;
+        }
+
+        .course-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 18px;
+        }
+
+        .course-btn {
+            padding: 20px;
+            background: white;
+            border-radius: 16px;
+            font-size: 18px;
+            text-align: center;
+            cursor: pointer;
+            text-decoration: none;
+            color: #333;
+            box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+            transition: all 0.25s;
+        }
+
+        .course-btn:hover {
+            background: #efefef;
+            transform: translateY(-3px);
+        }
+    </style>
+</head>
+
+<body>
+
+<h1>学习刷题系统</h1>
+
+<div class="container">
+    <div class="course-grid">
+        <a class="course-btn" href="courses/ILGG/quiz.html">ILGG</a>
+        <a class="course-btn" href="courses/WO/quiz.html">World Order</a>
+        <a class="course-btn" href="courses/BP/quiz.html">Business Processes</a>
+        <a class="course-btn" href="courses/BC1/quiz.html">Business Communication 1</a>
+        <a class="course-btn" href="courses/BR1/quiz.html">Business Research 1</a>
+        <a class="course-btn" href="courses/PPL/quiz.html">PPL</a>
+        <a class="course-btn" href="courses/Dutch/quiz.html">Dutch</a>
+    </div>
+</div>
+
+</body>
+</html>
