@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>刷题系统 · ILGG</title>
+
+<style>
+    body { 
+        font-family: -apple-system, sans-serif; 
+        background: #fafafa; 
+        margin:0; padding:0; 
+    }
+    .container { 
+        width: 90%; 
+        max-width: 900px; 
+        margin: 0 auto; 
+    }
+    h1 { 
+        text-align: center; 
+        margin-top: 30px; 
+        font-size: 28px; 
+    }
+    .mode-buttons { 
+        display:flex; 
+        gap:10px; 
+        margin-top:20px; 
+    }
+    .mode-btn {
+        flex:1; 
+        padding:16px; 
+        text-align:center;
+        background:#fff; 
+        border-radius:12px;
+        cursor:pointer;
+        box-shadow:0 2px 10px rgba(0,0,0,0.05);
+        transition:0.25s;
+    }
+    .mode-btn:hover { background:#eaeaea; }
+
+    #quiz-area {
+        margin-top:30px; 
+        background:#fff; 
+        padding:20px;
+        border-radius:12px; 
+        box-shadow:0 2px 12px rgba(0,0,0,0.08);
+        min-height: 200px;
+    }
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>ILGG 刷题系统</h1>
+
+    <!-- 三大模式按钮 -->
+    <div class="mode-buttons">
+        <div class="mode-btn" onclick="loadOriginal()">刷原题</div>
+        <div class="mode-btn" onclick="loadWrong()">错题 + AI 新题</div>
+        <div class="mode-btn" onclick="startMockExam()">模拟考试</div>
+    </div>
+
+    <div id="quiz-area">
+        请选择上方模式开始刷题。
+    </div>
+
+</div>
+
+<script src="../../common/quiz.js"></script>
+<script src="../../common/github.js"></script>
+
+<script>
+    function loadOriginal() { loadQuestionSet("original"); }
+    function loadWrong() { loadQuestionSet("wrong+ai"); }
+    function startMockExam() { loadQuestionSet("mock"); }
+</script>
+
+</body>
+</html>
